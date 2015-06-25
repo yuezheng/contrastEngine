@@ -1,0 +1,14 @@
+{
+  "name": "contrastEngine",
+  "version": "0.0.0",
+  "description": "test some rule engines in nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "yuezheng",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "node-rules": "~3.0.2"
+  }
+}
