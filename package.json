@@ -9,6 +9,7 @@
   "author": "yuezheng",
   "license": "BSD-2-Clause",
   "dependencies": {
-    "node-rules": "~3.0.2"
+    "node-rules": "~3.0.2",
+    "maxant-rules": "~2.1.3"
   }
 }
